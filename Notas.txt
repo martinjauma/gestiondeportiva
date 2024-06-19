@@ -1,0 +1,4 @@
+Terminal
+
+
+Ejecutar en terminal  pipreqs para generar el archivo obligatorio requirements.txt para poder subir la app a streamlit

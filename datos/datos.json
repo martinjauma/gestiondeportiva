@@ -1,0 +1,86 @@
+[
+    {
+        "ID": "4e246e23-f8fe-4e16-9747-540acaf0024e",
+        "Apellido": "Fabiani",
+        "Nombre": "Veronica",
+        "FechaAlta": "2024060619:04"
+    },
+    {
+        "ID": "331d705a-0dff-45d8-880c-56d2079da777",
+        "Apellido": "Matsusus",
+        "Nombre": "Lucas",
+        "FechaAlta": "2024060619:04"
+    },
+    {
+        "ID": "4b346f55-e30c-4fd5-be17-e4570bb7c895",
+        "Apellido": "Ambrosio",
+        "Nombre": "Coso"
+    },
+    {
+        "ID": "8be349f7-feb1-4f93-ad26-dcbf155f3fd1",
+        "Apellido": "Hourcade",
+        "Nombre": "Daniel",
+        "FechaAlta": "2024060618:40"
+    },
+    {
+        "ID": "11dc8223-3446-42e2-8dd3-5d0832c958a3",
+        "Apellido": "Jorge",
+        "Nombre": "Fabian",
+        "FechaAlta": "2024060619:00"
+    },
+    {
+        "ID": "71a64778-de23-4d38-9282-734e4ea39430",
+        "Apellido": "VALENZUELA",
+        "Nombre": "MARIA",
+        "FechaAlta": "2024060619:01"
+    },
+    {
+        "ID": "c88874a2-9ad8-4bf5-91df-cb86222b639b",
+        "Apellido": "LILICREUS",
+        "Nombre": "MARTA",
+        "FechaAlta": "2024060619:04"
+    },
+    {
+        "ID": "7177c4a5-59c7-4dfb-94e8-550115b60734",
+        "Apellido": "Storni",
+        "Nombre": "Alfonso",
+        "FechaAlta": "2024060619:04"
+    },
+    {
+        "ID": "4dde017a-2efc-4b12-813f-28a82fff93aa",
+        "Apellido": "Galarraga",
+        "Nombre": "Juan",
+        "FechaAlta": "2024060709:21",
+        "": ""
+    },
+    {
+        "ID": "9e4784f5-a2b1-4d18-81a6-22ac3759f0e6",
+        "Apellido": "Roverano",
+        "Nombre": "Juan",
+        "FechaAlta": "2024060709:23",
+        "": ""
+    },
+    {
+        "ID": "8dc06835-d237-421f-a583-ed73050311b2",
+        "Apellido": "Roberano",
+        "Nombre": "Juan",
+        "FechaAlta": "2024060709:23"
+    },
+    {
+        "ID": "b4b29655-649e-4514-b59b-ecf350104086",
+        "Apellido": "Ripalsina",
+        "Nombre": "Mateo",
+        "FechaAlta": "2024060709:27"
+    },
+    {
+        "ID": "7ed8cebf-6021-40b4-877a-a73c3b3eac6d",
+        "FechaAlta": "2024060712:14",
+        "Apellido": "Jauma",
+        "Nombre": "Marcelo",
+        "Edad": "55",
+        "Direcci\u00f3n": "Calle 359 130",
+        "Tel\u00e9fono": "91136205030",
+        "Email": "Martin.jauma@gmail.com",
+        "ALTURA": "200"
+    }
+]
